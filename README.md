@@ -27,5 +27,8 @@ Furniture : 1~5. Furniture can help mice to prevent attack from cat,but # of fur
 # End
 There's a animation in the end.
 
+## Resource
 
+- Allegro download: [https ://github.com/liballeg/allegro5/releases](https://github.com/liballeg/allegro5/releases)
+- Allegro documentation: https://liballeg.org/a5docs/trunk/
 
