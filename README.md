@@ -16,11 +16,11 @@ Level : 1~5. to strengthen the basic attributes
 Furniture : 1~5. Furniture can help mice to prevent attack from cat,but # of furniture will increase the frequency for generating mice
 
 # Instruction
-1.[click] to press buttons
-2.[D] [F] attack
-3.[mouse axis] cat will move to mouse axis
-4.[E] oper the store interface
-5.[B] increase 2000 dollars in game (use to deal with bugs)
+    1.[click] to press buttons
+    2. [D] [F] attack
+    3. [mouse axis] cat will move to mouse axis
+    4. [E] oper the store interface
+    5. [B] increase 2000 dollars in game (use to deal with bugs)
 
 # End
 There's a animation in the end.
