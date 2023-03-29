@@ -3,7 +3,8 @@ The Final Project in NTHU Computer Program Design II course.
 (use allegro5 to implement)
 
 # Goal
-Earn 1 billion or Buy a auto_kill_machine
+Earn 1 billion or Buy a auto_kill_machine asap.
+There will be a timer to record time spent.
 
 # Introduction
 Role : Cat
