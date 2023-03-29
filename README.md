@@ -20,5 +20,5 @@ but the numbers of furniture will increase the frequency for generating mice.
   4. [mouse axis] slowly move cat to the axis of mouse at that time
   5. [B] increase 2000 dollars(using for deal with bugs)
 
-# end of the game
+# End of the game
 There's an animation in the end.
