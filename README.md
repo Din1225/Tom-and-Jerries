@@ -3,6 +3,8 @@ The Final Project in NTHU Computer Program Design II course.
 
 (use allergo5 in C/C++ to implement)
 
+It suggests that install files and open "Tom_and_Jerries.cbp" on codeblock.
+
 # Goal
 Earn 1 billion or Buy a auto_kill_machine
 
